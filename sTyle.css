@@ -1,8 +1,13 @@
 body {
     background-color:rgb(84, 104, 77);
+}
+h1 {
+    color:rgb(255, 255, 255);
     text-align:center;
+    font-size: 100px;
 }
 a {
     color:rgb(255, 255, 255);
     text-align:center;
+    font-size: 100px;
 }
