@@ -11,9 +11,10 @@ a {
     text-align:center;
     font-size:auto;
 }
-cookie{
+#cookie{
+    position: absolute;
     width: 25px;
 }
-score {
+#score {
     font-size:40px;
 }
