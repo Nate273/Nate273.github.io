@@ -2,18 +2,21 @@ body {
     text-align:center;
 }
 h1 {
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     text-align:center;
     font-size: 100px;
 }
 a {
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     text-align:center;
     font-size:auto;
 }
+#images{
+    position: absolute;
+}
 #cookie{
     position: absolute;
-    width: 25px;
+    width: 600px;
 }
 #score {
     font-size:40px;
