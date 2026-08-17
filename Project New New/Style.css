@@ -18,11 +18,11 @@ a {
 }
 #cookie{
     position: absolute;
-    left: 400px;
+    left: 500px;
     top: 75px;
     width: 600px;
 }
-#score {
+.score {
     background-color:rgb(255, 255, 255);
     font-size:40px;
 }
